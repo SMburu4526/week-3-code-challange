@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Stephen",
+      "email": "stephen@example.com",
+      "favorite_languages": ["JavaScript", "Python"]
+    },
+    {
+      "id": 2,
+      "name": "Stephen",
+      "email": "stephen@example.com",
+      "favorite_languages": ["Java", "C#"]
+    },
+    {
+      "id": 3,
+      "name": "Stephen",
+      "email": "stephen@example.com",
+      "favorite_languages": ["Ruby", "Go", "Rust"]
+    }
+  ]
+}
